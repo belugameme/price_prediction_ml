@@ -1,0 +1,9 @@
+yfinance
+cufflinks
+tensorflow==2.2
+sklearn
+pandas
+numpy
+matplotlib
+warnings
+git+git://github.com/JustGlowing/minisom.git
